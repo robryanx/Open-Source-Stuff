@@ -1,0 +1,2 @@
+Mysqli wrapper class, allows some abstaction of some prapared statement calls.
+The model for using these calls though is a bit verbose and as a result I plan to make take a lot less code to create a prepared statement in the future.
